@@ -4,3 +4,22 @@ __pycache__/
 config.cfg
 dist/
 registros/
+
+# Mantenimiento 2026-10-20: datos locales y resultados regenerables
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+**/.gradle/
+**/local.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/.codex-tools/

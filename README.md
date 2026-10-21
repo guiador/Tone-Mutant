@@ -91,3 +91,5 @@ This software may be compiled using Nuitka, an optimizing Python compiler. Nuitk
 Button icons used in this software are licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/). Fugue Icons and Diagona Icons are property of [Yusuke Kamiyamane](https://p.yusukekamiyamane.com/). Some other icons are the property of [Aha-Soft](http://www.aha-soft.com/free-icons/).
 
 **Company and product names used in this software may be registered trademarks of others.**
+
+[Continuidad, construcción y pendientes para otros mantenedores](CONTINUIDAD.md).

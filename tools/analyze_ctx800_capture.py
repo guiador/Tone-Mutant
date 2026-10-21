@@ -63,7 +63,7 @@ def analyze():
         "También se reproducen las capturas mediante MidiService y Core, con una ventana Qt real y dispositivos sustituidos. Los valores de los controles quedan dentro de sus opciones/rangos y esa reproducción no genera escrituras de parámetros.",
         "",
         "```powershell",
-        r".\.runtime\python310\python.exe -m unittest discover -s tests -v",
+        r".\.runtime\python312\Scripts\python.exe -m unittest discover -s tests -v",
         "```",
         "",
         "Las capturas originales están en `captures/ctx800-readonly-20261019.json` y `captures/ctx800-survey-20261019.json`. Contienen paquetes transmitidos, recibidos y resultados por consulta. Este informe se regenera con `tools/analyze_ctx800_capture.py` sin conectar el teclado.",
